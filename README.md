@@ -12,7 +12,7 @@ I’m a Full Stack Developer with a passion for creating software solutions that
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 
-[![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  ](https://camo.githubusercontent.com/34b891c76d258e4b0ee593443e5cbc2506cdbb7d3cd6bc0e4beffa87a9c1611b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 
@@ -28,17 +28,6 @@ I’m a Full Stack Developer with a passion for creating software solutions that
 
 
 
-
-
-
-
-
-
-
-
-📊 GitHub Stats
-
-
 📫 How to Reach Me
-💼 LinkedIn
-📧 Email: your.email@example.com
+💼 LinkedIn: www.linkedin.com/in/oyebola-noah-46b149286
+📧 Email: noahfola2005@gmail.com
