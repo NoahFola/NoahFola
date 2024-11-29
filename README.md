@@ -28,6 +28,11 @@ I’m a Full Stack Developer with a passion for creating software solutions that
 
 
 
+
+
+
 📫 How to Reach Me
+
 💼 LinkedIn: www.linkedin.com/in/oyebola-noah-46b149286
+
 📧 Email: noahfola2005@gmail.com
